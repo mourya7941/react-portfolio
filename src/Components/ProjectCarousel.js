@@ -7,9 +7,9 @@ import { ImHtmlFive } from "react-icons/im";
 import { FaCss3Alt } from "react-icons/fa";
 import { TbBrandJavascript } from "react-icons/tb";
 import { GrReactjs } from "react-icons/gr";
-import project1 from '../assets/project1.png'; // Replace with actual images
-import project2 from '../assets/project2.png'; // Replace with actual images
-import project3 from '../assets/project3.png'; // Replace with actual images
+import project1 from '../assets/project1.png'; 
+import project2 from '../assets/project2.png'; 
+import project3 from '../assets/project3.png'; 
 // import image from '../assets/lang.png';
 
 const Projects = () => {

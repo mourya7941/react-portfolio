@@ -50,22 +50,22 @@ const Projects = () => {
           
           <p>Developed Stray Lovers Dogs Ngo Website<br />
             <p>Used Technologies</p>
-<div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '40px' }}>
+<div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '30px' }}>
   <div style={{ textAlign: 'center' }}>
-    <ImHtmlFive style={{ fontSize: '50px', color: 'orange', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>HTML5</p>
+    <ImHtmlFive style={{ fontSize: '30px', color: 'orange', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>HTML5</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <FaCss3Alt style={{ fontSize: '50px', color: 'blue', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>CSS3</p>
+    <FaCss3Alt style={{ fontSize: '30px', color: 'blue', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>CSS3</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <TbBrandJavascript style={{ fontSize: '50px', color: 'yellow', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>JavaScript</p>
+    <TbBrandJavascript style={{ fontSize: '30px', color: 'yellow', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>JavaScript</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <GrReactjs style={{ fontSize: '50px', color: 'cyan', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>React</p>
+    <GrReactjs style={{ fontSize: '30px', color: 'cyan', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>React</p>
   </div>
 </div>
           </p>
@@ -84,22 +84,22 @@ const Projects = () => {
           <p>Developed Daily Todo App <br />
             Daily Routine</p>
           <br/>
-          <div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '40px' }}>
+          <div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '30px' }}>
   <div style={{ textAlign: 'center' }}>
-    <ImHtmlFive style={{ fontSize: '50px', color: 'orange', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>HTML5</p>
+    <ImHtmlFive style={{ fontSize: '30px', color: 'orange', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>HTML5</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <FaCss3Alt style={{ fontSize: '50px', color: 'blue', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>CSS3</p>
+    <FaCss3Alt style={{ fontSize: '30px', color: 'blue', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>CSS3</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <TbBrandJavascript style={{ fontSize: '50px', color: 'yellow', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>JavaScript</p>
+    <TbBrandJavascript style={{ fontSize: '30px', color: 'yellow', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>JavaScript</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <GrReactjs style={{ fontSize: '50px', color: 'cyan', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>React</p>
+    <GrReactjs style={{ fontSize: '30px', color: 'cyan', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>React</p>
   </div>
 </div>
 
@@ -117,22 +117,22 @@ const Projects = () => {
           <br/>
           <p>Developed E-Bookstore website<br />
          E-Bookstore  </p>
-          <div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '40px' }}>
+          <div className="technologies" style={{ display: 'flex', justifyContent: 'center', gap: '30px' }}>
   <div style={{ textAlign: 'center' }}>
-    <ImHtmlFive style={{ fontSize: '50px', color: 'orange', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>HTML5</p>
+    <ImHtmlFive style={{ fontSize: '30px', color: 'orange', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>HTML5</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <FaCss3Alt style={{ fontSize: '50px', color: 'blue', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>CSS3</p>
+    <FaCss3Alt style={{ fontSize: '30px', color: 'blue', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>CSS3</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <TbBrandJavascript style={{ fontSize: '50px', color: 'yellow', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>JavaScript</p>
+    <TbBrandJavascript style={{ fontSize: '30px', color: 'yellow', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>JavaScript</p>
   </div>
   <div style={{ textAlign: 'center' }}>
-    <GrReactjs style={{ fontSize: '50px', color: 'cyan', marginBottom: '10px' }} />
-    <p style={{ fontSize: '16px', color: 'white' }}>React</p>
+    <GrReactjs style={{ fontSize: '30px', color: 'cyan', marginBottom: '10px' }} />
+    <p style={{ fontSize: '10px', color: 'white' }}>React</p>
   </div>
 </div>
           <div className="project-overlay">

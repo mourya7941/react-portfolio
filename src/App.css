@@ -1,0 +1,52 @@
+.App {
+  width:100%;
+  text-align: center;
+  background-color: black;
+  height:100vh;
+  overflow-x: hidden;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: black;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+/* 
+.home,
+.about,
+.projects,
+.contact {
+  /* padding: 20px; */
+ 
+/* .contact{
+  height:100vh;
+} */
+
+.project-slide {
+  justify-content: center;
+  text-align: center;
+  /* padding: 20px; */
+  background-color: black;
+  color:white;
+  
+}
+@media (max-width: 768px) {
+  .navbar{
+    background-color: black;
+  }
+  .navbar-links {
+    flex-direction: column;
+    margin: 0;
+  }
+
+  .project-slide {
+    padding: 10px;
+  }
+}

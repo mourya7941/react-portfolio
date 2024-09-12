@@ -1,0 +1,21 @@
+/* SocialMediaLinks.css */
+
+.social-media-links {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.social-icon {
+  color: white;
+  /* Default icon color */
+  font-size: 30px;
+  /* Adjust icon size */
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #007bff;
+  /* Change color on hover */
+}

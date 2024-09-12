@@ -46,6 +46,7 @@ const Projects = () => {
       <Slider {...settings}>
         <div className="project-slide">
           <img src={project1} alt="Project 1" className="project-image" />
+          <br/>
           <h2>NGO Website</h2>
           
           <p>Developed Stray Lovers Dogs Ngo Website<br />
@@ -80,6 +81,7 @@ const Projects = () => {
         </div>
         <div className="project-slide">
           <img src={project2} alt="Project 2" className="project-image" />
+          <br/>
           <h2>Todo App</h2>
           <p>Developed Daily Todo App <br />
             Daily Routine</p>
@@ -113,6 +115,7 @@ const Projects = () => {
         </div>
         <div className="project-slide">
           <img src={project3} alt="Project 3" className="project-image" />
+          <br/>
           <h2>E-BookStore </h2>
           <br/>
           <p>Developed E-Bookstore website<br />
